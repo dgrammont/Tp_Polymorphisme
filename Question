@@ -1,0 +1,8 @@
+Question, 1)Comment     se   nomme   la   relation   entre   la   classe  Trajectoire  et   la   classeElement,
+sous quelle forme cette relation doit être implémentée en C++?
+
+1)Cella ce nome une agrégation
+
+Question 2)Comment peut-on qualifier la classe Element? Justifier votre réponse.
+
+2)La classe Element est une calsse abstraite
